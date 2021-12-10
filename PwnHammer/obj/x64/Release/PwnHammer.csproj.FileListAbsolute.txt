@@ -1,0 +1,11 @@
+C:\Users\nacar\source\repos\PwnHammer\bin\x64\Release\PwnHammer.exe.config
+C:\Users\nacar\source\repos\PwnHammer\bin\x64\Release\PwnHammer.exe
+C:\Users\nacar\source\repos\PwnHammer\bin\x64\Release\PwnHammer.pdb
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.AdminDialog.resources
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.KilledProcessesDialog.resources
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.MainForm.resources
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.Properties.Resources.resources
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.csproj.GenerateResource.cache
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.csproj.CoreCompileInputs.cache
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.exe
+C:\Users\nacar\source\repos\PwnHammer\obj\x64\Release\PwnHammer.pdb
