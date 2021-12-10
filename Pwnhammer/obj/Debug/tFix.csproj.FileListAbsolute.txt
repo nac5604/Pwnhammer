@@ -1,0 +1,11 @@
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\tFix.csproj.AssemblyReference.cache
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\tFix.csproj.GenerateResource.cache
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\tFix.csproj.CoreCompileInputs.cache
+C:\Users\nacar\source\repos\tFix\tFix\bin\Debug\Pwnhammer.exe.config
+C:\Users\nacar\source\repos\tFix\tFix\bin\Debug\Pwnhammer.exe
+C:\Users\nacar\source\repos\tFix\tFix\bin\Debug\Pwnhammer.pdb
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\Pwnhammer.Properties.Resources.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\Pwnhammer.exe
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\Pwnhammer.pdb
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\Pwnhammer.KilledProcessesDialog.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\Debug\Pwnhammer.MainForm.resources

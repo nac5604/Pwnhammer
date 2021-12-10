@@ -1,0 +1,16 @@
+C:\Users\nacar\source\repos\tFix\tFix\bin\x64\Debug\Pwnhammer.exe.config
+C:\Users\nacar\source\repos\tFix\tFix\bin\x64\Debug\Pwnhammer.exe.manifest
+C:\Users\nacar\source\repos\tFix\tFix\bin\x64\Debug\Pwnhammer.application
+C:\Users\nacar\source\repos\tFix\tFix\bin\x64\Debug\Pwnhammer.exe
+C:\Users\nacar\source\repos\tFix\tFix\bin\x64\Debug\Pwnhammer.pdb
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.AdminDialog.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.KilledProcessesDialog.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.MainForm.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.Properties.Resources.resources
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.csproj.GenerateResource.cache
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.csproj.CoreCompileInputs.cache
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.TrustInfo.xml
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.exe.manifest
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.application
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.exe
+C:\Users\nacar\source\repos\tFix\tFix\obj\x64\Debug\Pwnhammer.pdb
