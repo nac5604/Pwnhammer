@@ -16,7 +16,6 @@ using System.Runtime.InteropServices;
 
 namespace PwnHammer
 {
-    // the j
     public partial class MainForm : Form
     {
         #region Global Variables
